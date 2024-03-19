@@ -1,2 +1,2 @@
 # Temperature-converter
-A simple web app to covert temperatures unit
+A web app that converts temperatures units
