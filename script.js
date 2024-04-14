@@ -6,6 +6,7 @@ let btn = document.querySelector('.button button')
 
 
 function roundNumber(number){
+    
     return Math.round(number*100)/100
 }
 
