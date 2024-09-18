@@ -29,7 +29,7 @@ body{
 }
 
 .Temperature-icon{
-    font-size: 45px;
+    font-size: 44px;
     color: #fff;
 }
 
@@ -43,7 +43,7 @@ h1{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 25px;
+    margin-top: 26px;
 }
 
 input{
